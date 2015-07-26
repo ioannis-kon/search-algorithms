@@ -1,6 +1,6 @@
 # Search Algorithms
 
-Tutorial and Implementation of the most famous search algorithms
+# Tutorial and Implementation
 
 by Kontopoulos Ioannis
 
